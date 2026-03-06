@@ -1,0 +1,7 @@
+{
+  "name": "Vyaparmitra",
+  "description": "A comprehensive BI platform for small vendors and retail businesses featuring real-time dashboards, automated reporting, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
